@@ -1,0 +1,21 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "gtts": "^0.2.1",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "url": "^0.11.4",
+    "util": "^0.12.5"
+  },
+  "keywords": [],
+  "description": ""
+}
